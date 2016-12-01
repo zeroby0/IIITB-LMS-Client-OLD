@@ -1,0 +1,48 @@
+.forum_tile_pane {
+    -fx-padding: 40 30 80 30;
+    -fx-hgap: 15;
+    -fx-vgap: 2;
+    -fx-margin: auto;
+    -fx-box-border: transparent;
+    -fx-border-color: #fff;
+/*    -fx-background-color: cornsilk;
+    -fx-box-shadow: 10px 10px 5px #888888;*/
+    -fx-effect: dropshadow(three-pass-box, #fafafa, 3, 0, 0, 0);
+    -fx-background-color: #F0F0F1;
+    
+    
+}
+
+.forum_card{
+
+    -fx-background-color: #FFF;
+/*    -fx-background-radius: 5;*/
+/*    -fx-padding: 60px;*/
+    -fx-padding: 10px 20px 10px 20px;
+/*    -fx-effect: dropshadow(three-pass-box, #E9E9EB, 5, 0, 0, 0);*/   
+
+/*    -fx-effect:dropshadow(three-pass-box, rgba(0,0,0,0.8), 5, 0, 0, 0);*/
+    -fx-border-color:#FEFEFE #FEFEFE #F1F1F1 #FEFEFE;
+    -fx-border-width: 0 0 1 0;
+    -fx-border-style: solid solid solid solid;
+    
+    
+    
+    
+}
+
+.forum_card_label{
+
+    -fx-text-alignment: center;
+
+}
+
+.forum_card_image{
+    -fx-padding: 10px 20px 10px 20px;
+}
+
+
+.forum_display_text{
+    
+    -fx-padding: 10px 20px 10px 20px;
+}
