@@ -12,6 +12,7 @@ Derby - database
 
 GUI - JavaFX, FXML
 
-update: I'm working on a better `readme` that includes setup and I'll convert the repo to a clonable `workspace` so you can get started on the project or package it rightaway.
+net beans workspace under branch `nbeans-project`. This project doesn't work right now [In my system. The same setup worked in some other systems.] Nor are there any plans to continue work on this project, in the foreseeable future.  
+However, I'll try to make another LMS client with nodejs and electron in coming holidays.
 
 Thanks
