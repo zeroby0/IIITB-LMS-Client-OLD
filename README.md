@@ -11,3 +11,7 @@ Jaunt - for scraping LMS
 Derby - database  
 
 GUI - JavaFX, FXML
+
+update: I'm working on a better `readme` that includes setup and I'll convert the repo to a clonable `workspace` so you can get started on the project or package it rightaway.
+
+Thanks
