@@ -1,0 +1,41 @@
+.course_tile_pane {
+    -fx-padding: 80 80 80 80;
+    -fx-hgap: 15;
+    -fx-vgap: 15;
+    -fx-margin: auto;
+    -fx-box-border: transparent;
+    -fx-border-color: #fff;
+/*    -fx-background-color: cornsilk;
+    -fx-box-shadow: 10px 10px 5px #888888;*/
+    -fx-effect: dropshadow(three-pass-box, #fafafa, 3, 0, 0, 0);
+    -fx-background-color: #F0F0F1;
+    
+    
+}
+
+.course_card{
+
+    -fx-background-color: #FAFAFA;
+/*    -fx-background-radius: 5;*/
+/*    -fx-padding: 60px;*/
+    -fx-padding: 60px 20px 60px 20px;
+/*    -fx-effect: dropshadow(three-pass-box, #E9E9EB, 5, 0, 0, 0);*/   
+
+/*    -fx-effect:dropshadow(three-pass-box, rgba(0,0,0,0.8), 5, 0, 0, 0);*/
+
+    
+    
+    
+    
+}
+
+.course_card_label{
+
+    -fx-text-alignment: center;
+
+}
+
+.course_card_image{
+
+}
+
