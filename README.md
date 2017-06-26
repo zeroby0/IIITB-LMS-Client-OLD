@@ -1,6 +1,7 @@
 # IIITB-LMS-Client
 Unofficial client for LMS - IIITB
-Development under progress
+
+Development stopped. Checkout https://github.com/zeroby0/lms-scraper. Written in javascript and considerably faster.
 
 this is the stable branch, switch to `current` for latest (also probably unstable) version.
 
